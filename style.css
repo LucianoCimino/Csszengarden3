@@ -1,5 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,900');
 
 body{
 	background-color: #eaeaea;
+	margin: 70px;
+	font-size: 14pt;
+	font-family: Lato;
+	line-height: 20pt;
+
 }
+h1{
+	font-size: 67pt;
+	line-height: 60pt;
+	color: #282828;
+}
+h2{
+	font-size: 58pt;
+	margin-left: 50%;
+	line-height: 60pt;
+	color: #282828;
+	text-align: right;
+}
+h3{
+	font-size: 18pt;
+	color: #282828;
+	font-weight: bold;
+}
+a{
+	font-weight: bold;
+	color: #282828;
+}
+
+div#zen-summary.summary{
+	padding-left: 50%;
+	text-align: right;
+	font-weight: lighter;
+	position: relative;
+	top:-30px;
+}
+div#zen-preamble.preamble{
+	padding-left: 50%;
+}
+
+div#zen-supporting{
+	position: absolute;
+	top:1000px;
+	padding-left: 30%;
+	margin-right: 70px;
+
+}
+
+.sidebar{
+	position: absolute;
+	top: 1000px;
+	background-color: #282828;
+	margin-right: 66.6%;
+	margin-left: -70px;
+	padding-right: 10px;
+	padding-left: 70px;
+	padding-top: : 20px;
+	padding-bottom: 20px;
+	border-top-right-radius: 45px;
+	border-bottom-right-radius: 45px;
+	color:#eaeaea;
+}
+
+.sidebar a{
+	color:#eaeaea;
+}
+
+.sidebar h3{
+	color:#eaeaea;
+}
+
+footer{
+	background-color: #282828;
+	text-align: center;
+	padding: 70px 0px 30px 0px;
+	margin-right: -70px;
+	margin-left: -473px;
+}
+
+footer a{
+	color:#eaeaea;
+}
+
 

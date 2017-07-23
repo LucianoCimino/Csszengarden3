@@ -68,6 +68,7 @@ div#zen-supporting{
 
 .sidebar a{
 	color:#eaeaea;
+	font-weight: 400;
 }
 
 .sidebar h3{
@@ -85,6 +86,8 @@ footer{
 footer a{
 	color:#eaeaea;
 	font-size: 14pt;
+	font-weight: 400;
+
 }
 
 img{

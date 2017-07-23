@@ -49,6 +49,7 @@ div#zen-supporting{
 	padding-left: 30%;
 	margin-right: 70px;
 
+
 }
 
 .sidebar{
@@ -79,6 +80,7 @@ footer{
 	background-color: #282828;
 	text-align: center;
 	padding: 70px 0px 30px 0px;
+	margin-top: 150px;
 	margin-right: -70px;
 	margin-left: -475px;
 }
@@ -101,3 +103,16 @@ img{
 	margin-left: -70px;
 }
 
+div#zen-requirements p:last-child{
+	text-align: center;
+	position: relative;
+	top: 210px;
+	color: #eaeaea;
+	margin-left: -50%;
+
+}
+div#zen-requirements p:last-child a{
+	color:#eaeaea;
+	font-weight: 400;
+
+}

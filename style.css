@@ -17,12 +17,12 @@ h2{
 	font-size: 58pt;
 	margin-left: 50%;
 	line-height: 60pt;
-	color: #282828;
+	color: #cc8436;
 	text-align: right;
 }
 h3{
 	font-size: 18pt;
-	color: #282828;
+	color: #cc8436;
 	font-weight: bold;
 }
 a{
@@ -39,11 +39,13 @@ div#zen-summary.summary{
 }
 div#zen-preamble.preamble{
 	padding-left: 50%;
+	position: relative;
+	top:100px;
 }
 
 div#zen-supporting{
 	position: absolute;
-	top:1000px;
+	top:1100px;
 	padding-left: 30%;
 	margin-right: 70px;
 
@@ -51,7 +53,7 @@ div#zen-supporting{
 
 .sidebar{
 	position: absolute;
-	top: 1000px;
+	top: 1100px;
 	background-color: #282828;
 	margin-right: 66.6%;
 	margin-left: -70px;
@@ -69,7 +71,7 @@ div#zen-supporting{
 }
 
 .sidebar h3{
-	color:#eaeaea;
+	color:#cc8436;
 }
 
 footer{
@@ -77,11 +79,22 @@ footer{
 	text-align: center;
 	padding: 70px 0px 30px 0px;
 	margin-right: -70px;
-	margin-left: -473px;
+	margin-left: -475px;
 }
 
 footer a{
 	color:#eaeaea;
+	font-size: 14pt;
 }
 
+img{
+	height: 740px;
+	width: 640px;
+	float: left;
+	position: relative;
+	bottom:320px;
+	border-top-right-radius: 45px;
+	border-bottom-right-radius: 45px;
+	margin-left: -70px;
+}
 
